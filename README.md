@@ -1,5 +1,14 @@
 # 2425-MIIR-16-LaLaLab
-Trabajo Fin de Máster "Diseño, e implementación de un sistema IoT con modelo 3D para monitorización en tiempo real de plantas de laboratorio" - Máster en Informática Industrial y Robótica, EPEF, UDC.
+
+### Trabajo Fin de Máster 
+
+**Diseño e implementación de un sistema IoT con modelo 3D para monitorización en tiempo real de plantas de laboratorio** 
+
+Máster en Informática Industrial y Robótica  
+Escola Politécnica de Enxeñaría de Ferrol  
+Universidade da Coruña
+
+Curso 2025-2026
 
 ## Estructura del repositorio
 
